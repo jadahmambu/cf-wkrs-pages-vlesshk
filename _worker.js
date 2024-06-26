@@ -6,7 +6,7 @@ import { connect } from 'cloudflare:sockets';
 let userID = '0e2d0735-48ff-4c60-ad82-efbf103bdc94';
 
 // 生成配置文件的 CF 优选 IP
-const bestCFIP = "103.110.91.198"
+const bestCFIP = "34.91.129.122"
 
 // 用于 CF 网站的代理 IP
 const proxyIPs = ["workers.cloudflare.cyou"]; // const proxyIPs = ['cdn-all.xn--b6gac.eu.org', 'cdn.xn--b6gac.eu.org', 'cdn-b100.xn--b6gac.eu.org', 'edgetunnel.anycast.eu.org', 'cdn.anycast.eu.org'];
